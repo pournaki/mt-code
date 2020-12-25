@@ -19,7 +19,7 @@ pip3 install requirements.txt
 ```
 
 ## Modularity of random graphs
-Compute the modularity of E-R random graphs for varying mean degree. The mean degree is varied between 0.1 and 500, the number of nodes between 100 and 500. For every graph couple of parameters, 50 samples are drawn. You can change these values according to your preference. The program saves a text file for every network size N, where every row corresponds to a mean degree and the columns correspond to N, <Q>, std(Q), <k>, std(k), where k is the number of communities.
+Compute the modularity of E-R random graphs for varying mean degree. The mean degree is varied between 0.1 and 500, the number of nodes between 100 and 500. For every graph couple of parameters, 50 samples are drawn. You can change these values according to your preference. The program saves a text file for every network size N, where every row corresponds to a mean degree and the columns correspond to N, < Q >, std(Q), < k >, std(k), where k is the number of communities.
 
 Run it using 
 ```
