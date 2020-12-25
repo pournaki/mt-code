@@ -35,7 +35,7 @@ python3 run_sfm.py
 ```
 
 ## Ising model on square lattice
-Simulate the Metropolis-Hastings dynamics of the Ising model on the square lattice. Code adapted from https://github.com/carlosgmartin/ising. Returns the mean magnetization (after cutting off transient time) and final magnetization for different temperatures on $30 \times 30$ square lattice. 
+Simulate the Metropolis-Hastings dynamics of the Ising model on the square lattice. Code adapted from https://github.com/carlosgmartin/ising. Returns the mean magnetization (after cutting off transient time) and final magnetization for different temperatures on 30 x 30 square lattice. 
 
 Run it for different temperatures using for example
 ```
