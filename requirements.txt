@@ -1,0 +1,5 @@
+igraph
+networkx
+tqdm
+numpy
+louvain

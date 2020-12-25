@@ -1,0 +1,42 @@
+###################################
+# INITIAL CONDITIONS OF THE 
+# KARATE CLUB NETWORK
+# TWO OPINIONS ARE ALLOWED
+# OPINION 1: MR. HI
+# OPINION 2: JOHN A.
+# ONLY THE LEADERS FIGHT FOR THEMSELVES
+###################################
+1,-1
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+-1,1
