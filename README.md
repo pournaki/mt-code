@@ -5,7 +5,7 @@ This is the code repository for the main numerical results from my master's thes
 Make sure you have Python 3 installed on your system. Install the required libraries using: 
 
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Data
